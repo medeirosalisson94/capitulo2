@@ -1,6 +1,7 @@
 A ordem de execução foi:
 
 1 - Modelagem__Brejos_atual_futuro_EXPORTAR
+
 2 - regressão_linear_resíduos_EXPORTAR
 
 O medelo foi executado no ambiente GEE. Veja o script abaixo.
